@@ -28,7 +28,7 @@ plugins:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FHCC Washington Cancer Dashboards"
+title                    : ""
 name                     : 
 description              : "A landing point for a variety of data dashboards covering the state of Washington."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

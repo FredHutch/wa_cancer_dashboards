@@ -1,5 +1,5 @@
 ---
-title: 
+title: "FHCC Washington Cancer Dashboards"
 layout: splash
 permalink: /
 header:
