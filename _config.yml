@@ -28,12 +28,12 @@ plugins:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-name                     : "Your Name"
-description              : "An amazing website."
+title                    : "FHCC Washington Cancer Dashboards"
+name                     : 
+description              : "A landing point for a variety of data dashboards covering the state of Washington."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "FredHutch/FH-minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "FredHutch/wa_cancer_dashboards" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   :  "/images/favicon-hutch.png" # path of fallback teaser image, e.g.
 logo                     : "/images/FHCC_Logo_FullColor_RGB.png" ## "/images/fhdasl-brothers-squared.png"
 

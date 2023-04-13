@@ -1,4 +1,15 @@
 # main links
+
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "CIF"
+    url: "/cif/"
+  - title: "HICOR"
+    url: "/hicor/"
+  - title: "CRS"
+    url: "/crs/"
+
+frontpage:
+  - title: "Who We Are"
+    children:
+      - title: "Page 1"
+        url: ""
